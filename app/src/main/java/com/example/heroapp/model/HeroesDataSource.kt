@@ -11,28 +11,29 @@ object HeroesRepository {
         ),
         Hero(
             nameRes = R.string.hero2,
-            descriptionRes = "Understands the absolute truth",
+            descriptionRes = R.string.description2,
             imageRes = R.drawable.android_superhero2
         ),
         Hero(
             nameRes = R.string.hero3,
-            descriptionRes = "Mimics the light and night to blend in",
+            descriptionRes = R.string.description3,
             imageRes = R.drawable.android_superhero3
         ),
         Hero(
             nameRes = R.string.hero4,
-            descriptionRes = "Harnesses the power of canary to develop bravely",
+            descriptionRes = R.string.description4,
             imageRes = R.drawable.android_superhero4
         ),
         Hero(
             nameRes = R.string.hero5,
-            descriptionRes = "Effortlessly glides in to save the day",
+            descriptionRes = R.string.description5,
             imageRes = R.drawable.android_superhero5
         ),
         Hero(
             nameRes = R.string.hero6,
-            descriptionRes = "Ability to shift to any form and energize",
+            descriptionRes = R.string.description6,
             imageRes = R.drawable.android_superhero6
         )
     )
 }
+
