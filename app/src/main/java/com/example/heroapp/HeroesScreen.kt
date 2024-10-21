@@ -70,5 +70,10 @@ fun HeroListItem(
     hero: Hero,
     modifier: Modifier = Modifier
 ) {
-
+    Card(
+        elevation = CardDefaults.cardElevation(defaultElevation = 2.dp),
+        modifier = modifier,
+    ) {
+        Row()
+    }
 }
